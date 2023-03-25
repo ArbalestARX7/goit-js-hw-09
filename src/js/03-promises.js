@@ -20,6 +20,7 @@ function createPromise(position, delay) {
       }
     }, delay);
   });
+  // ,kznm
 }
 
 function onFormSubmit(evt) {
